@@ -1,4 +1,5 @@
-
+config:
+  info: "芜湖,你个菜鸡总算成功了"
 server:
   port: 9527
 
